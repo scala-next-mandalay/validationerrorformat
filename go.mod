@@ -1,4 +1,4 @@
-module github.com/kondows95/validationerrorformat
+module github.com/scala-next-mandalay/validationerrorformat
 
 go 1.12
 
